@@ -1,4 +1,6 @@
-# prx_lychees
+# PRX LYCHEES
+
+PRX Discord: https://discord.gg/sE7CvvVwkW
 
 # Español
 
