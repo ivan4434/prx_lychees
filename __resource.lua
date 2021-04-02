@@ -1,0 +1,19 @@
+fx_version 'cerulean'
+game 'gta5'
+
+this_is_a_map 'yes'
+
+author 'PRX LEAKS'
+description 'Script de farmeo y venta de lychees'
+version '0.1'
+
+
+client_script {
+	'client/client.lua',
+	'config.lua'
+} 
+
+server_script {
+	'server/server.lua',
+	'config.lua'
+}
