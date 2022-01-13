@@ -1,6 +1,6 @@
 # PRX LYCHEES
 
-PRX Discord: https://discord.gg/sE7CvvVwkW
+You can join my Discord for any question: https://discord.gg/sE7CvvVwkW
 
 # Español
 
