@@ -3,7 +3,7 @@ game 'gta5'
 
 this_is_a_map 'yes'
 
-author 'PRX LEAKS'
+author 'Ivan_44'
 description 'Script de farmeo y venta de lychees'
 version '0.1'
 
